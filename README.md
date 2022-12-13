@@ -1,2 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijoo-1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijoo-1&show_icons=true&theme=gruvbox)](https://github.com/yijoo-1/yijoo-1.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yijoo-1&repo=github-readme-stats)](https://github.com/yijoo-1/yijoo-1.git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yijoo-1)](https://github.com/yijoo-1/yijoo-1.git)
